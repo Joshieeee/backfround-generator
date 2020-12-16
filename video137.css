@@ -1,0 +1,38 @@
+body {
+	font: 'Raleway', sans-serif;
+	background: linear-gradient(to right, rgb(0, 255, 0), rgb(255,0,0));	
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 0.5em;
+	top: 15%;
+}
+
+h1 {
+	font: 600 3.5em 'Raleway', sans-serif;
+	color: rgba(0,0,0,0.5);
+	text-align: center;
+}
+
+.random {
+	font: 600 1.5em 'Raleway', sans-serif;
+	/*background: linear-gradient(to right, rgb(0, 255, 0), rgb(255,0,0));	*/
+	background-color: #bcd5da;
+	text-align: center;
+	text-transform: uppercase;
+	display: block;
+	margin: auto auto;
+	margin-top: 20px;
+	border-radius: 15px;
+	border: 3px #000 solid;
+	text-decoration: none;
+}
+
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+	color: rgba(0,0,0,0.5);
+	text-align: center;
+	text-transform: none;
+	letter-spacing: 0.01em;
+	color: #fff;
+	-webkit-text-stroke: 1px black;
+}
